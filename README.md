@@ -1,2 +1,0 @@
-# hummart.github.io
-yes
